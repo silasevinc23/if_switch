@@ -1,1 +1,3 @@
-# if_switch
+# switch
+
+girilen meyveye göre fiyatını söyleyen uygulama
